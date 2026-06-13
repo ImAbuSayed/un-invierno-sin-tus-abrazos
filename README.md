@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-invierno-sin-tus-abrazos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Un invierno sin tus abrazos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-invierno-sin-tus-abrazos/) |
+| **Get License** | [Music Rights & Licensing for Un invierno sin tus abrazos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-invierno-sin-tus-abrazos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a0be794e4d48d0482c18c8561d712b014435fef032ccbb57a794da44a04d137f` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

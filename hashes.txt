@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un invierno sin tus abrazos
+
+This log tracks the cryptographic history and versioning for the song **Un invierno sin tus abrazos** (un-invierno-sin-tus-abrazos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:13:23.957548 | `v1` | `a0be794e4d48d0482c18c8561d712b014435fef032ccbb57a794da44a04d137f` | `0990a0c8148ad12e837d6d266f2b25aa552c071719c5d386bbbf81328d0a02b2` | `2026-06-14_un-invierno-sin-tus-abrazos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

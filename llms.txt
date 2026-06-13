@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la noche está fría, un invierno sin tus abrazos
+> Buscando tu dulce calor, perdiendo el control de mis pasos
+> Dime quién te da calor cuando el hielo corta como un vaso
+> Yo tengo el fuego pa' quemar lo que quedó a medias, caso por caso
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a0be794e4d48d0482c18c8561d712b014435fef032ccbb57a794da44a04d137f` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
