@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-invierno-sin-tus-abrazos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Un invierno sin tus abrazos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-invierno-sin-tus-abrazos/) |
+| **Get License** | [Commercial Licensing for Un invierno sin tus abrazos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-invierno-sin-tus-abrazos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la noche está fría, un invierno sin tus abrazos
+> Buscando tu dulce calor, perdiendo el control de mis pasos
+> Dime quién te da calor cuando el hielo corta como un vaso
+> Yo tengo el fuego pa' quemar lo que quedó a medias, caso por caso
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
